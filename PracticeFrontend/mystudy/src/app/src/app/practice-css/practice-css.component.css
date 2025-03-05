@@ -1,0 +1,123 @@
+
+.main-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+  }
+  .left-container {
+      /* position: absolute;
+      left: 5%;
+      top: 50%; */
+      transform: translateY(-50%);
+      width: 30%;
+      text-align: left;
+      font-size: 18px;
+      color: #333;
+      padding: 20px;
+      text-align: center;
+    }
+  .v{
+      color: red;
+  }
+  
+  
+  @media (min-width: 1400px) {
+    .main-container{
+      width:100%;  
+      padding:50px;
+    }
+    .left-container {
+        font-size: 19px; /* Slightly larger font for readability */
+        padding: 25px; /* More padding for larger displays */
+    }
+    .login-container {
+      width:90%;
+      padding:10px;
+    }
+  }@media (max-width: 575px) {
+    .main-container{
+      width:90vw;
+      display: block;
+      padding:10px;
+    }
+    .left-container {
+      left: 2%; /* Move it closer to the left edge */
+      width: 90%; /* Increase width to make better use of available space */
+      font-size: 10px; /* Slightly smaller font size for better fitting */
+      padding: 10px; /* Reduce padding */
+    }
+    .login-container {
+      width:50%;
+      padding:10px;
+    }
+  }
+  
+  /* Medium screens (>=576px) */
+  @media (min-width: 576px) and (max-width: 767px) {
+    .main-container{
+      width:80%;
+      padding:10px;
+    }
+    .left-container {
+        left: 5%; /* Maintain a more spacious left margin */
+        width: 80%; /* Larger width for smaller screens */
+        font-size: 16px; /* Maintain smaller font size */
+        padding: 15px; /* Adjusted padding */
+    }
+    .login-container {
+      width:80%;
+      padding:10px;
+    }
+  }
+  
+  /* Medium screens (>=768px) */
+  @media (min-width: 768px) {
+    .main-container{
+      width:90%;
+      padding:10px;
+    }
+    .left-container {
+        width: 25%; /* Slightly reduced width */
+        font-size: 16px; /* Maintain smaller font size */
+        padding: 15px; /* Adjust padding */
+    }
+    .login-container {
+      width:90%;
+      padding:10px;
+    }
+  }
+  
+  /* Large screens (>=1024px) */
+  @media (min-width: 1024px) {
+    .main-container{
+      width:90%;
+      padding:10px;
+    }
+    .left-container {
+        width: 20%; /* Further reduction in width */
+        font-size: 18px; /* Reset font size to original */
+        padding: 20px; /* Original padding */
+    }
+    .login-container {
+      width:90%;
+      padding:10px;
+    }
+  }
+  
+  /* Extra Large screens (>=1200px) */
+  @media (min-width: 1200px) {
+    .main-container{
+      width:90vw;
+      padding:10px;
+    }
+    .left-container {
+        width: 15%; /* More compact width for large displays */
+    }
+  }

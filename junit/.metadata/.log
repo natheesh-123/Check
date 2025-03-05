@@ -1,0 +1,134 @@
+!SESSION 2024-11-25 10:37:15.688 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.5
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 10:37:34.887
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 10:38:26.628
+!MESSAGE Logback config file: C:\learning\junit\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-25 10:39:19.517
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\natheeshkumar.b'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 10:43:16.924
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 10:43:16.961
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 10:43:16.972
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 10:43:16.979
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 10:43:17.005
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 10:43:17.024
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-25 17:14:17.074
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-25 17:14:17.074
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-25 17:14:17.074
+!MESSAGE "Guava: Google Core Libraries for Java" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-25 17:14:17.074
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.074
+!MESSAGE Software being installed: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.074
+!MESSAGE Missing requirement: slf4j-api 1.7.36 (slf4j.api 1.7.36) requires 'java.package; org.slf4j.impl 1.6.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-11-25 17:14:17.074
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.074
+!MESSAGE From: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.074
+!MESSAGE To: org.eclipse.equinox.p2.iu; slf4j.api [1.7.36,1.7.36]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-25 17:14:17.151
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-25 17:14:17.152
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-25 17:14:17.152
+!MESSAGE "Guava: Google Core Libraries for Java" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-25 17:14:17.152
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.152
+!MESSAGE Software being installed: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.152
+!MESSAGE Missing requirement: slf4j-api 1.7.36 (slf4j.api 1.7.36) requires 'java.package; org.slf4j.impl 1.6.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-11-25 17:14:17.152
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.152
+!MESSAGE From: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.152
+!MESSAGE To: org.eclipse.equinox.p2.iu; slf4j.api [1.7.36,1.7.36]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-25 17:14:17.184
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-25 17:14:17.184
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-25 17:14:17.185
+!MESSAGE "Guava: Google Core Libraries for Java" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-25 17:14:17.185
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.185
+!MESSAGE Software being installed: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.185
+!MESSAGE Missing requirement: slf4j-api 1.7.36 (slf4j.api 1.7.36) requires 'java.package; org.slf4j.impl 1.6.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-11-25 17:14:17.185
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.185
+!MESSAGE From: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.185
+!MESSAGE To: org.eclipse.equinox.p2.iu; slf4j.api [1.7.36,1.7.36]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2024-11-25 17:14:17.193
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-11-25 17:14:17.193
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-11-25 17:14:17.193
+!MESSAGE "Guava: Google Core Libraries for Java" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2024-11-25 17:14:17.193
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.193
+!MESSAGE Software being installed: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.193
+!MESSAGE Missing requirement: slf4j-api 1.7.36 (slf4j.api 1.7.36) requires 'java.package; org.slf4j.impl 1.6.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-11-25 17:14:17.193
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.193
+!MESSAGE From: TestNG P2 Feature 7.10.1.r202404130807 (org.testng.p2.feature.feature.group 7.10.1.r202404130807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-11-25 17:14:17.193
+!MESSAGE To: org.eclipse.equinox.p2.iu; slf4j.api [1.7.36,1.7.36]
+!SESSION 2024-11-25 17:19:41.000 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.5
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/learning/junit/
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 17:20:01.869
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 17:20:12.909
+!MESSAGE Logback config file: C:\learning\junit\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-25 17:20:30.690
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\natheeshkumar.b'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

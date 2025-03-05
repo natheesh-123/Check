@@ -1,0 +1,71 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732090632305,86,HTTP Request,200,OK,student 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,86,0,36
+1732090632417,81,HTTP Request,200,OK,student 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,81,0,34
+1732090632510,85,HTTP Request,200,OK,student 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,84,0,36
+1732090632618,90,HTTP Request,200,OK,student 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,2,2,http://quiz-fe-test.hematitecorp.com/#/quizapp,90,0,41
+1732090632705,83,HTTP Request,200,OK,student 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,83,0,34
+1732090632804,115,HTTP Request,200,OK,student 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,2,2,http://quiz-fe-test.hematitecorp.com/#/quizapp,115,0,54
+1732090632907,90,HTTP Request,200,OK,student 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,90,0,41
+1732090633007,83,HTTP Request,200,OK,student 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,82,0,35
+1732090633106,95,HTTP Request,200,OK,student 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,95,0,35
+1732090633207,83,HTTP Request,200,OK,student 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[1]]]
+
+/",965,134,1,1,http://quiz-fe-test.hematitecorp.com/#/quizapp,83,0,35
