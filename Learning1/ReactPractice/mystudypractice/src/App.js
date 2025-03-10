@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import CounterComp from './Component/reduxpractice/CounterComp';
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
         </a>
       </header> */}
 
-
+<h1>redux counter app</h1>
+<CounterComp></CounterComp>
 
       
     </div>
