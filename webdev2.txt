@@ -1,0 +1,864 @@
+
+
+====================HTML revise======================
+
+HTML Intro
+ Editors
+ Elements
+ Attributes
+ Headings
+ Paragraphs
+ Styles
+ Formatting
+ Quotations
+ Comments
+ Colors %
+ CSS   %
+ Links  %
+ Images
+ Favicon
+ Page Title
+ Tables %
+ Lists  %
+ Block & Inline %
+ Div %
+ Classes
+ Id
+ Iframes
+ JavaScript
+ File Paths
+ Head
+ Layout
+ Responsive
+ Computercode
+ Semantics
+ Style Guide
+ Entities
+ Symbols
+ Emojis
+ Charsets
+ URL Encode
+ vs. XHTML
+
+------HTML Forms %-----
+ Form Attributes
+ Form Elements
+ Input Types
+ Input Attributes
+ Form Attributes	
+
+
+------------*HTML concepts used*--------------
+
+-HTML intro
+-<tag> types
+-steps to create HTML file
+-element
+-attribute
+-types of list in html
+-features of HTML5
+    (or)
+ what is the diff between HTML and HTML5
+-iframe
+-link
+-table
+-form
+-new tags
+-new input type in HTML
+-Bookmark
+
+=================CSS revise==========================
+
+
+CSS Intro
+CSS Selectors
+CSS How To use css
+CSS Comments
+CSS Colors
+CSS Backgrounds
+CSS Borders
+CSS Margins
+CSS Padding
+CSS Height/Width
+CSS Box Model
+CSS Outline
+CSS Text
+CSS Fonts
+CSS Icons
+CSS Links
+CSS Lists
+CSS Tables
+CSS Display
+CSS Max-width
+CSS Position
+CSS Z-index
+CSS Overflow
+CSS Float
+CSS Inline-block
+CSS Align
+CSS Combinators
+CSS Pseudo-classes
+CSS Pseudo-elements
+CSS Opacity
+CSS Navigation Bar
+CSS Dropdowns
+CSS Image Gallery
+CSS Image Sprites
+CSS Attr Selectors
+CSS Forms
+CSS Counters
+CSS Website Layout
+CSS Units
+CSS Specificity
+CSS !important
+CSS Math Functions
+
+---------------CSS Advanced---------------------
+CSS Rounded Corners
+CSS Border Images
+CSS Backgrounds
+CSS Colors
+CSS Color Keywords
+CSS Gradients
+CSS Shadows
+CSS Text Effects
+CSS Web Fonts
+CSS 2D Transforms
+CSS 3D Transforms
+CSS Transitions
+CSS Animations
+CSS Tooltips
+CSS Image Styling
+CSS Image Centering
+CSS Image Filters
+CSS Image Shapes
+CSS object-fit
+CSS object-position
+CSS Masking
+CSS Buttons
+CSS Pagination
+CSS Multiple Columns
+CSS User Interface
+CSS Variables
+CSS @property
+CSS Box Sizing
+CSS Media Queries
+CSS MQ Examples
+CSS Flexbox
+
+---------CSS Responsive--------
+RWD Intro
+RWD Viewport
+RWD Grid View
+RWD Media Queries
+RWD Images
+RWD Videos
+RWD Frameworks
+RWD Templates
+
+----------CSS Grid-----------
+Grid Intro
+Grid Container
+Grid Item
+
+----------------*CSS concepts used*------------------
+
+-CSS intro
+-how to use CSS (or) Types of CSS
+-selector in CSS
+-border
+-Box-Model
+-position
+-Media Query
+-Box-sizing
+-Float
+-Overflow
+-Flex
+
+
+
+================BootStrap revise===================
+BootStrap intro
+BS5 Containers
+BS5 Grid Basic
+BS5 Typography
+BS5 Colors
+BS5 Tables
+BS5 Images
+BS5 Jumbotron
+BS5 Alerts
+BS5 Buttons
+BS5 Button Groups
+BS5 Badges
+BS5 Progress Bars
+BS5 Spinners
+BS5 Pagination
+BS5 List Groups
+BS5 Cards
+BS5 Dropdowns
+BS5 Collapse
+BS5 Navs
+BS5 Navbar
+BS5 Carousel
+BS5 Modal
+BS5 Tooltip
+BS5 Popover
+BS5 Toast
+BS5 Scrollspy
+BS5 Offcanvas
+BS5 Utilities
+BS5 Dark Mode
+BS5 Flex
+
+-----Bootstrap 5 Forms-------
+BS5 Forms
+BS5 Select Menus
+BS5 Checks and Radios
+BS5 Range
+BS5 Input Groups
+BS5 Floating Labels
+BS5 Form Validation
+
+-------Bootstrap 5 Grid----------
+BS5 Grid System
+BS5 Stacked/Horizontal
+BS5 Grid XSmall
+BS5 Grid Small
+BS5 Grid Medium
+BS5 Grid Large
+BS5 Grid XLarge
+BS5 Grid XXL
+
+
+
+-----------------*BootStrap concepts used*------------------
+
+-Bootstrap intro
+-How to use Bootstrap
+-important classes
+	=>container class
+	=>color class
+	=>bg-color class
+	=>button class
+	=>spinner border class
+	=>spinner-grow-class
+	=>image class
+	=>table class
+-how to use carousal
+-how to use nav
+-how to know accordian
+-grid
+-card
+
+
+
+===================Javascript Revise=====================
+
+1.JS variables -/-
+2.Datatypes
+3.functions
+4.Arrow functions
+5.Objects
+6.Array
+7.Maps
+8.strings
+9.Events
+10.this keyword
+11.Destructuring
+12.classes
+13.Dates
+14.Loops
+15.Operators
+16.set
+17.Typeof
+
+---JS HTML DOM---
+
+1.DOM intro
+2.methods
+3.Document
+4.Elements
+5.HTML
+6.Forms
+7.CSS
+8.Events
+
+-------JS Async-------
+
+1.Callbacks
+2.Asynchronous
+3.Promises
+4.Async/Await
+
+-----JS ES5---------
+
+Array.isArray()
+Array forEach()
+Array map()
+Array filter()
+Array reduce()
+Array reduceRight()
+Array every()
+Array some()
+Array indexOf()
+Array lastIndexOf()
+
+
+ES-5:(Training)
+
+-map()
+-forEach()
+-filter()
+
+-every()  -some() {rarely used}
+
+
+------JS ES6--------
+
+ES-6:(Training)
+
+-spread operator
+
+
+--------*JS concepts used*----------
+
+-JS intro
+-ways to use JS
+-how to get o/p in JS
+-variables in JS
+    =>var,let,const
+-function
+-datatypes in JS
+-operators introduced JS6
+-DOM manipulation
+   =>how to change attribute value by using DOM
+   =>How to call function by using event
+   =>How to access data from input control
+-Array
+-object
+-callback function
+-date and time
+-form validation
+-string
+-prompt
+
+-setTimeout()
+-setInterval()
+
+-ES5
+-ES6
+-how to merge two (or) more arrays(concat,spread operator)
+-destructuring
+
+
+
+_______________________________________HCJ Project________________________________________________
+
+
+*pre-req:
+
+1)install vs code 
+2)install extension(optional)
+	-Extensions for syntax highlighting, auto-completion, and formatting.
+	-like, JavaScript (ES6) Code Snippets
+3)Live server (optional)
+	-Launches a local development server and reloads your browser on file save.
+
+
+
+
+#*VS code setup for HCJ:
+
+-Go to "File" > "Open Folder" and create a new folder for your project.
+
+
+=>in HTML file using HCJ:
+
+-In project folder create new files:
+	1.index.html for HTML
+	2.for CSS:
+		1)Inline css:- use (style=" ") attribute to directly specify the css.
+		2)Internal css:- css is written inside ( <style> )tag within the <head> section of the HTML file.
+		3)external css:- (separate ( style.css )  & using <Link> tag to specify the css file in (HTML <head> section))
+			
+     -selectors:CSS selectors are used to "select" and style specific HTML elements(for both internal css and external css)
+		1)element (or) tag name (or) --type-- selector :
+			-In this we use element or tag name to aply css property
+
+			ex:/* Styles all `<p>` tags */
+				p {
+					color: blue;
+					font-size: 16px;
+				}
+
+				HTML:
+
+				<p>This is a paragraph.</p>
+				<p>This is another paragraph.</p>
+
+		2)Group selector : 
+			-in this we make group selector to apply css property for multiple elements
+
+			ex:/* Styles both `<h1>` and `<p>` tags */
+				h1, p {
+					font-family: Arial, sans-serif;
+					color: gray;
+				}
+
+				HTML file:
+
+				<h1>This is a heading.</h1>
+				<p>This is a paragraph.</p>
+
+		3)Id selector : 
+			-if you have to apply css property to an single element in that case we use it
+
+			ex:/* Styles the element with the ID "main-heading" */
+				#main-heading {
+					font-size: 24px;
+					color: green;
+				}
+
+				HTML file:
+
+				<h1 id="main-heading">This is the main heading.</h1>
+				<p>This is a normal paragraph.</p>
+
+
+		4)Class Selector : 
+			-if you have to apply a specific css property to a bunch of elements
+			-Selects elements with a specific class.
+
+			ex:/* Styles elements with the "highlight" class */
+				.highlight {
+					background-color: yellow;
+					font-weight: bold;
+				}
+
+				HTML file:
+
+				<p class="highlight">This paragraph has a highlighted background.</p>
+				<p>This paragraph is not highlighted.</p>
+
+
+		5)Universal Selector : 
+			-if you have to apply css property to all elements
+			-Selects all elements on the page.
+
+			ex:/* Styles every element */
+				* {
+					margin: 0;
+					padding: 0;
+					box-sizing: border-box;
+				}
+
+				HTML file:
+
+				<div>Content inside a div</div>
+				<p>Content inside a paragraph</p>
+
+
+
+
+	3.for Javascript:
+		1)Inline JS:-  JS is written directly within an HTML elements attribute (rarely used)
+
+			ex: <button onclick="alert('button clicked')" >click me </button>
+					(OR)
+			    <button onclick="ShowAllert()" >click me </button>
+
+		2)Internal JS:- write code inside <script> tag in HTML <body> section.
+
+			ex:<script> hi write code here </script>
+
+		3)External JS:- (separate ( simple.js ) & specify js file in <script> inside (HTML <head> section)	
+
+			ex: <script src="./validation.js"></script>
+		
+	@note : use <script> in either  <head> or <body> section.
+		
+=>in Javascript file using HCJ:
+	1.simple.js for javascript
+
+	2.for CSS: & 3.for HTML:
+		in the above simple.js file , you can manipulate HTML and css using the Document Object Model(DOM).
+
+
+
+
+
+	====================================
+			REACT
+	====================================
+
+===========React revise=======================
+ 
+ -Intro
+ -React ES6
+ -JSX
+ -Components 2.
+ -Class      2.
+ -Props        4.
+ -Events       4.
+ -Conditionals 4.
+ -Lists
+ -Forms
+ -Router 6.
+ -Memo   5.
+ -CSS Styling 4.
+
+
+-React Hooks   6.
+    =>What is a Hook?
+```useState
+```useEffect             
+```useContext
+```useRef
+```useReducer
+```useCallback
+```useMemo
+```Custom Hooks
+
+
+react ES6
+		Classes
+		Arrow Functions
+		Variables (let, const, var)
+		Array Methods like .map()
+		Destructuring
+		Modules
+			--
+		Ternary Operator
+		Spread Operator
+
+
+---------------------React concepts used---------------------
+1.
+-pre-req for React 
+-react project creation
+-How to start react project
+-How to display react project
+-react folder structure
+2.
+-Component
+-How to Display Component o/p
+3.
+-//using HCJ in react
+-//using images react
+-//relative path in react
+4.
+-Props
+-method and events in react
+-State & setState
+-How to use Bootstrap in react
+-render
+    => Conditional Mendering.
+
+-//How to use css in react
+5. 
+-Fragment in react
+-Component Interaction.
+
+-passing state data as props
+-passing function as props
+ 
+-pure component in class component.
+-React.Memo():
+-Hoc (Higher order Component)
+-Error Boundary
+-Virtual Dom
+6.
+-Routing in Reack
+    => Types
+-class component life cycle methods.
+-Hooks in react
+-CRUD
+
+7.
+-Axios Library
+-json-server 
+-json- database
+
+8.
+-Material UI (www.mui.com)
+-Concurrent Library
+-protected routing
+-Web storage
+
+-bootstrap Vs React bootstrap
+-react mui
+
+9.
+-Testing in react
+-unit testing
+-S/W pre-req
+-How to create Testing component
+-TDD
+How to run (perform) testing in react
+	% npm run test
+
+-test("msg", function)
+-Build react project.
+-describe (msg, function)
+
+-Coverage
+   =>How to generate test Coverage file
+
+10.
+-Interceptor method.
+
+-Redux
+```react project
+```redux Library
+```redux toolkit
+```react-redux Library
+use dispatch ();
+use Selector;
+
+11.
+-JWT Token
+
+
+		
+________________REACT project_____________________	
+
+pre-req:
+
+1)Node.js and npm
+	-why we need this:
+		React relies on Node.js for its runtime environment and npm (or yarn) to manage dependencies.
+	-how to install:
+		Download from Node.js official site and install the LTS version.
+	-verfy installed or not:
+		node -v
+		npm -v
+
+2)VS Code
+3)Extensions
+	-ES7+ React/Redux/React-Native Snippets (used)
+		Why: Provides useful snippets for quickly creating React components, imports, and more.
+	-JavaScript (ES6) Code Snippets
+		
+
+
+------------*using HCJ In react--------------------- 
+
+	1.HTML in React
+		-you can write HTML using JSX syntax inside Javascript files. JSX allows you to write HTML-like code
+		 that react react compiles
+		-JSX uses camel case for attributes (eg. className(xx class) htmlFor instead of for)
+		-JSX expressions must be wrapped in a single parent element, like <div> 
+		
+       	2.CSS in React
+		1)Internal css:-
+			-Internal CSS is written directly within the component using the style attribute.
+			-The styles are defined as a JavaScript object and passed to the style attribute.
+
+			ex:
+				import React from 'react'
+
+				function InternalCssA() {
+
+					const headingStyle = {
+						color: 'blue',
+						fontSize: '24px',
+						textAlign: 'center',
+					};
+					return (
+						<div>
+								
+								<h1 style={headingStyle}>Internal CSS in React</h1>
+							
+								<p style={{ color: 'gray', fontSize: '18px' }}>This is styled using inline CSS.</p>  {/* Inline Styles in JSX */}
+						</div>
+					)
+				}
+
+				export default InternalCssA;
+
+
+		2)External css:- 
+			-External CSS is written in a separate .css file and imported into the component.
+
+			ex:  separate css file (first.css) & import './first.css'(using realtive path) in another component.
+
+
+		3)Module css:- 
+			-it is used when we have to design for a particuler component.
+			---CSS Modules provide scoped styles, meaning styles defined in one file won't affect elements in other files.---
+            		-we save file with fileName.module.css
+
+			ex:
+				import React from 'react';
+				import styles from './App.module.css';
+
+				function App() {
+					return (
+						<div>
+							<h1 className={styles.heading}>CSS Modules in React</h1>
+							<p className={styles.paragraph}>This is styled using CSS Modules.</p>
+						</div>
+					);
+				}
+
+				export default App;
+
+------------
+*react CSS vs normal CSS properties:
+
+	-CSS properties are based on the CSS specification, and these remain consistent across HTML, 
+  JavaScript (for DOM manipulation), and React.
+
+	ex:
+	CSS Property: background-color
+	Used in HTML: <div style="background-color: red;">
+	Used in JavaScript: element.style.backgroundColor = "red";
+	Used in React: style={{ backgroundColor: "red" }}
+------------
+
+
+        3.JS in React
+		-In React, JavaScript expressions are written inside curly braces {} within JSX. 
+		-These expressions allow you to embed dynamic content, execute logic,
+	  or render variables and functions within the JSX markup and etc..
+
+
+
+
+#*Relative path in react:
+	A relative path in React is used to import files based on the 
+	current file's location in the project directory.
+	         =>  ./ : Refers to the current folder where the file is located.
+             => ../ : Moves up one directory level.
+             => ../../ : Moves up two directory levels.
+             => folderName/... : Navigates into a specific folder.
+
+
+------------#*how to use images in react:--------------------------------
+
+approach 1: Importing and Using an Image in a React Component
+		-directly save images in project folder.
+			>src 
+			>asserts
+				>images
+					bike.jpg
+
+	=> import bird from '../assets/images/bike.jpg'
+	=> <img src={bird} alt='bird'></img>
+
+
+
+approach 2: use public URLs (or) external URLs 
+			===> sueful for images hosted on a CDN or external server.
+   -dirctly use URLs 
+		=> <img src='https://media.istockphoto.com/id/1911602365/photo/new-life-in-forest.jpg' alt='leaf'></img>
+
+   -passing URL through props
+		=> <UseImagePUrl imageurlp='https://media.istockphoto.com/id/1911602365/photo/new-life-in-forest.jpg'></UseImagePUrl>
+
+approach -3:  using CSS background images 
+		-setting images as background using css.
+
+approach -4: in Constant area 
+
+
+--------*Component---------
+
+*react is component basis technology
+    -component: it is partial part of react project
+                -which we can resuse throught react project
+                -it can be any part of react project
+
+-in react App.js is  root component
+
+*Types of component
+    1. function component : when your main focus is on UI design
+    2. class component : when you have to implement complex logic in that we use class component.
+---
+
+-How to display component o/p:
+-display a component's output by rendering the component within another component or directly in the root element.
+1.Create a component using a function or a class.
+
+2.Use the component in JSX by writing it like an HTML tag (<ComponentName />).
+=>using in another component =>App.js
+3.Render the root component to the DOM using React's rendering methods.
+---
+
+-#props
+
+
+
+
+
+=======================
+Angular
+==================
+
+
+ANGULAR:
+
+Pre-req s/w:-
+-> node js   (node --version)
+-> typescript (tsc -v) or (npx tsc -v)
+If tsc not there install globally: npm install -g typescript
+
+1) Angular Installation:
+npm install -g @angular/cli  (ng --version) or (npx ng --version)
+// npm install -g @angular/cli@18
+ 
+2) Create new Ang proj:
+ng new projName
+* ng new Attendance_management-app
+
+If node modules does not install => npm install 
+
+
+3) run / check project:
+cd projectname 
+ng serve (or) ng s
+
+check local host : 4200
+
+
+Angular Component :
+
+*how to create component in angular
+    -npx ng generate component componentName (or) npx ng g c componentName
+	=> npx ng g c src/app/practice-css
+
+
+*how to get output of individual component
+    1. go to component ts file copy its selector name and write as a tag in app.HTML file.
+    2. import the component in app.ts and append its name in imports Decorator.
+
+-----comment----
+For TypeScript/JavaScript Files:
+ /* 
+
+For HTML Files:
+<!--
+
+
+*routing in Angular
+
+---app.route.ts----
+
+import { Routes } from '@angular/router';
+
+import { UserLoginComponent } from './UserModule/user-login/user-login.component';
+
+
+export const routes: Routes = [
+{path:"", component:UserLoginComponent},
+
+];
+
+
+
+
+
+
+
+
+    
