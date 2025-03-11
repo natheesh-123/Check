@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 import CounterComp from './Component/reduxpractice/CounterComp';
+import ChildComponent from './Component/temp/ChildComponent';
+import Garage from './Component/props/Garage';
+import Car from './Component/props/Car';
 
 function App() {
   return (
@@ -19,10 +22,13 @@ function App() {
           Learn React
         </a>
       </header> */}
-
+{/* 
 <h1>redux counter app</h1>
 <CounterComp></CounterComp>
+<ChildComponent></ChildComponent> */}
 
+{/* <Garage></Garage> */}
+<Car mybrand="lambogini" price={1000} isActive={true}></Car>
       
     </div>
   );
