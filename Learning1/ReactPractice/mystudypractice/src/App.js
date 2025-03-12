@@ -4,6 +4,7 @@ import CounterComp from './Component/reduxpractice/CounterComp';
 import ChildComponent from './Component/temp/ChildComponent';
 import Garage from './Component/props/Garage';
 import Car from './Component/props/Car';
+import ArrayMethodsFY from './Component/array methods ES/LearnY/ArrayMethodsFY';
 
 function App() {
   return (
@@ -28,7 +29,8 @@ function App() {
 <ChildComponent></ChildComponent> */}
 
 {/* <Garage></Garage> */}
-<Car mybrand="lambogini" price={1000} isActive={true}></Car>
+{/* <Car mybrand="lambogini" price={1000} isActive={true}></Car> */}
+<ArrayMethodsFY/>
       
     </div>
   );
